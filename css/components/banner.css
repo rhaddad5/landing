@@ -1,0 +1,23 @@
+.banner {
+  background-image: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url("../../images/background.png");
+  backgroung-size: cover;
+  padding: 150px;
+}
+
+.banner h1 {
+  color: white;
+}
+
+.banner p {
+  color: white;
+  font-size: 20px;
+  margin-bottom: 40px;
+  opacity: 0.7;
+}
+
+.btn-green {
+  background-color: #66DD89;
+  color: white;
+  border-radius: 30px;
+  padding: 18px 35px;
+}

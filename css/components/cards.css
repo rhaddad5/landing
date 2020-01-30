@@ -1,0 +1,49 @@
+.cards {
+  display: flex;
+  justify-content: space-between;
+}
+
+.card-apply img {
+  height: 100px;
+}
+
+.card-learn img {
+  height: 100px;
+}
+
+.card-build img {
+  height: 100px;
+}
+
+.card-apply {
+  box-shadow: 0 0 5px rgba(0,0,0,0.2);
+  padding: 20px;
+  text-align: center;
+  border-radius: 5px;
+}
+
+.card-learn {
+  box-shadow: 0 0 5px rgba(0,0,0,0.2);
+  padding: 20px;
+  text-align: center;
+  border-radius: 5px;
+}
+
+.card-build {
+  box-shadow: 0 0 5px rgba(0,0,0,0.2);
+  padding: 20px;
+  text-align: center;
+  border-radius: 5px;
+}
+
+.card-apply p {
+  color: #B8B8B8;
+}
+
+.card-learn p {
+  color: #B8B8B8;
+}
+
+.card-build p {
+  color: #B8B8B8;
+}
